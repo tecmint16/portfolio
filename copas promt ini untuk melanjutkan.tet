@@ -1,0 +1,16 @@
+***
+
+**[SYSTEM PROMPT: RESUME FASE 2]**
+
+Kita terputus pada sesi sebelumnya. Anda sedang mengerjakan **"FASE 2: Audit, Integrasi Supabase, dan Pembuatan Admin Dashboard"**.
+
+**TUGAS ANDA SAAT INI:**
+1. **Analisis Konteks Terakhir:** Periksa *workspace* dan *source code* saat ini. Identifikasi *file* apa yang terakhir kali Anda buat atau ubah sebelum kita terputus.
+2. **Perbaiki Kode Terpotong:** Jika ada *file* kode yang belum selesai atau terpotong (*incomplete syntax*), perbaiki dan selesaikan *file* tersebut terlebih dahulu.
+3. **Lanjutkan Eksekusi:** Jangan mengulangi proses dari awal (lewati laporan audit jika sebelumnya sudah dilakukan). Langsung lanjutkan ke langkah berikutnya dalam pembuatan file inisialisasi Supabase atau pembuatan komponen routing `/admin` dan UI Admin Dashboard-nya.
+
+**ATURAN:**
+Tetap gunakan `npm` dan pertahankan gaya desain *Glassmorphism* sesuai PRD. 
+Sebelum menulis kode lanjutan, berikan pesan konfirmasi singkat: **"STATUS DIKENALI. MELANJUTKAN PENGERJAAN DARI [Sebutkan titik terakhir Anda berhenti]."**
+
+***
