@@ -173,7 +173,7 @@ export default function ProjectSection({ projects }: { projects: Project[] }) {
           <motion.div variants={cardVariants} className="mt-12 text-center">
             <a
               id="view-github"
-              href="https://github.com/crispian"
+              href="https://github.com/tecmint16"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 btn-secondary px-6 py-3 rounded-xl font-semibold"
