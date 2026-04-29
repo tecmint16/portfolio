@@ -16,6 +16,7 @@ const CATEGORY_META: Record<string, { emoji: string }> = {
   Frontend: { emoji: "🎨" },
   Backend: { emoji: "⚙️" },
   DevOps: { emoji: "🚀" },
+  Mobile_Development: { emoji: "📱" },
   Tools: { emoji: "🛠️" },
   Other: { emoji: "💡" },
 };

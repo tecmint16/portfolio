@@ -16,7 +16,7 @@ type Skill = {
 
 type FormData = Omit<Skill, "id">;
 
-const CATEGORIES = ["Frontend", "Backend", "DevOps", "Tools", "Other"];
+const CATEGORIES = ["Frontend", "Backend", "DevOps", "Mobile Development", "Tools", "Other"];
 const COLOR_PRESETS = [
   { label: "Indigo", value: "#667eea" },
   { label: "Purple", value: "#764ba2" },
